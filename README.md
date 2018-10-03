@@ -9,7 +9,7 @@ To Run:
 3. Enter the number you want to search.
 4. Click on submit to check if the number is in list.
 
-<b>Acknowledgments</b>
+<b>Acknowledgments</b></br>
 References taken from:
 https://hackernoon.com/programming-with-js-binary-search-aaf86cef9cb3
 
@@ -18,6 +18,6 @@ To Run:
 1. Open DepthFirstSearch.js in a browser.
 2. Check the Console window to check output.
 
-<b>Acknowledgments</b>
+<b>Acknowledgments</b></br>
 References taken from:
 https://www.geeksforgeeks.org/implementation-graph-javascript/
