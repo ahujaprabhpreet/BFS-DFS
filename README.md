@@ -11,7 +11,12 @@ To Run:
 
 <b>Acknowledgments</b></br>
 References taken from:
-https://hackernoon.com/programming-with-js-binary-search-aaf86cef9cb3
+https://hackernoon.com/programming-with-js-binary-search-aaf86cef9cb3</br>
+
+Note: If running in google chrome browser, you might get "Form submission canceled because the form is not connected" warning.
+It's because of some recent google chrome update. Try some other browser if not working properly.
+
+
 
 <b>DEPTH FIRST SEARCH</b></br>
 To Run:
