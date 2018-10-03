@@ -43,8 +43,6 @@
                 var each = list.split(" ")
                 var eachNumberArray = each.map(Number);
                 
-                //eachNumberArray.sort(function(a, b){return b - a});
-                
                 //calling the binary search method to search the number and printing it
                 document.write("Position of the number : ")
                 document.write(binarySearch(eachNumberArray,Number(num)))
